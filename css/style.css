@@ -1,0 +1,13 @@
+
+.bg-light {
+    background-color: #326496 !important;
+}
+
+.active,
+.navbar-brand {
+    color: #fff!important;
+}
+
+.nav-link {
+    color: rgb(100, 163, 226)!important;
+}
